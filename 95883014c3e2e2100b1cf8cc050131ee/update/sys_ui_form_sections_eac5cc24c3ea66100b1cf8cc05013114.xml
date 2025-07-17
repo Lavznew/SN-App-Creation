@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="eac5cc24c3ea66100b1cf8cc05013114" sys_domain="global" table="x_1468282_loaners_loaner_request" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-07-01 17:09:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fac5cc24c3ea66100b1cf8cc05013117</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1468282_loaners_loaner_request" name="x_1468282_loaners_loaner_request" sys_domain="global" view="f229b350310212108a7c7b974a26f247">eac5cc24c3ea66100b1cf8cc05013114</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_1468282_loaners_loaner_request" sys_domain="global" view="f229b350310212108a7c7b974a26f247">a6c5cc24c3ea66100b1cf8cc05013112</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-07-01 17:09:13</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_1468282_loaners_loaner_request</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-07-01 17:09:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>eac5cc24c3ea66100b1cf8cc05013114</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1468282_loaners_loaner_request</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Loaners Application" source="x_1468282_loaners">95883014c3e2e2100b1cf8cc050131ee</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Loaners Application">95883014c3e2e2100b1cf8cc050131ee</sys_scope>
+            <sys_update_name>sys_ui_form_sections_eac5cc24c3ea66100b1cf8cc05013114</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-07-01 17:09:13</sys_updated_on>
+            <sys_user/>
+            <view display_value="Self Service" name="ess">f229b350310212108a7c7b974a26f247</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
