@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties">
+    <sys_properties action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>No. of hrs b4 a reservation ends to send a reminder to the requestor</description>
+        <ignore_cache>true</ignore_cache>
+        <is_private>false</is_private>
+        <name>x_1468282_loaners.return.runtime</name>
+        <read_roles>x_1468282_loaners.admin</read_roles>
+        <suffix>return.runtime</suffix>
+        <sys_class_name>sys_properties</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-08-04 13:35:25</sys_created_on>
+        <sys_id>64ba1293c3cfe6100b1cf8cc0501317d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1468282_loaners.return.runtime</sys_name>
+        <sys_package display_value="Loaners Application" source="x_1468282_loaners">95883014c3e2e2100b1cf8cc050131ee</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaners Application">95883014c3e2e2100b1cf8cc050131ee</sys_scope>
+        <sys_update_name>sys_properties_64ba1293c3cfe6100b1cf8cc0501317d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-08-04 13:35:25</sys_updated_on>
+        <type>integer</type>
+        <value>24</value>
+        <write_roles>x_1468282_loaners.admin</write_roles>
+    </sys_properties>
+    <sys_translated_text action="delete_multiple" query="documentkey=64ba1293c3cfe6100b1cf8cc0501317d"/>
+</record_update>

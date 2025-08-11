@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_no_mtom">
+    <sc_cat_item_user_criteria_no_mtom action="DELETE">
+        <sc_cat_item display_value="">bacbb121c3d3a2900b1cf8cc050131d2</sc_cat_item>
+        <sys_class_name>sc_cat_item_user_criteria_no_mtom</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-08-11 11:05:49</sys_created_on>
+        <sys_id>cfcbb121c3d3a2900b1cf8cc050131d3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Loaner Request.SNC External</sys_name>
+        <sys_package display_value="Loaners Application" source="x_1468282_loaners">95883014c3e2e2100b1cf8cc050131ee</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaners Application">95883014c3e2e2100b1cf8cc050131ee</sys_scope>
+        <sys_update_name>sc_cat_item_user_criteria_no_mtom_cfcbb121c3d3a2900b1cf8cc050131d3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-08-11 11:05:49</sys_updated_on>
+        <user_criteria display_value="SNC External">66c1b50e730333009508738234f6a7c9</user_criteria>
+    </sc_cat_item_user_criteria_no_mtom>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Loaners Application">95883014c3e2e2100b1cf8cc050131ee</application>
+        <file_path/>
+        <instance_id>858715b71b2e31d4699443f4bd4bcb72</instance_id>
+        <instance_name>dev222264</instance_name>
+        <name>sc_cat_item_user_criteria_no_mtom_cfcbb121c3d3a2900b1cf8cc050131d3</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_no_mtom"><sc_cat_item_user_criteria_no_mtom action="INSERT_OR_UPDATE"><sc_cat_item display_value="">bacbb121c3d3a2900b1cf8cc050131d2</sc_cat_item><sys_class_name>sc_cat_item_user_criteria_no_mtom</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-08-11 11:05:49</sys_created_on><sys_id>cfcbb121c3d3a2900b1cf8cc050131d3</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Loaner Request.SNC External</sys_name><sys_package display_value="Loaners Application" source="x_1468282_loaners">95883014c3e2e2100b1cf8cc050131ee</sys_package><sys_policy/><sys_scope display_value="Loaners Application">95883014c3e2e2100b1cf8cc050131ee</sys_scope><sys_update_name>sc_cat_item_user_criteria_no_mtom_cfcbb121c3d3a2900b1cf8cc050131d3</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-08-11 11:05:49</sys_updated_on><user_criteria display_value="SNC External">66c1b50e730333009508738234f6a7c9</user_criteria></sc_cat_item_user_criteria_no_mtom></record_update>]]></payload>
+        <payload_hash>-2128328131</payload_hash>
+        <record_name>Loaner Request.SNC External</record_name>
+        <reverted_from/>
+        <source>302c6a22c31022100b1cf8cc05013157</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2025-03-18 14:02:35</sys_created_on>
+        <sys_id>378c3d25c397a2900b1cf8cc050131a1</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>195a99034780000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>Catalog Item Not Available for</type>
+        <update_guid>f38c3d25e997a290a6e0c3188f1957a1</update_guid>
+        <update_guid_history>f38c3d25e997a290a6e0c3188f1957a1:-2128328131</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Loaner Request.SNC External">7f8c3d25c397a2900b1cf8cc050131a1</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-08-11 11:09:08</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_user_criteria_no_mtom">sc_cat_item_user_criteria_no_mtom</sys_db_object>
+        <sys_id>21a4f71cdc8548598f6c4e8844e08959</sys_id>
+        <sys_metadata>cfcbb121c3d3a2900b1cf8cc050131d3</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Loaner Request.SNC External</sys_name>
+        <sys_package display_value="Loaners Application" source="x_1468282_loaners">95883014c3e2e2100b1cf8cc050131ee</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Loaners Application">95883014c3e2e2100b1cf8cc050131ee</sys_scope>
+        <sys_scope_delete display_value="">0864de38cc6949b4938ede3ebe507ec4</sys_scope_delete>
+        <sys_update_name>sc_cat_item_user_criteria_no_mtom_cfcbb121c3d3a2900b1cf8cc050131d3</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_user_criteria_no_mtom_cfcbb121c3d3a2900b1cf8cc050131d3">378c3d25c397a2900b1cf8cc050131a1</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-08-11 11:09:08</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
